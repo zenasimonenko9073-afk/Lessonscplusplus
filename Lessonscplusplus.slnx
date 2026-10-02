@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01Intro/01Intro.vcxproj" />
-  <Project Path="03for,while/03for,while.vcxproj" />
+  <Project Path="01Intro/01Intro.vcxproj" Id="74b9526a-eaf0-4d89-89b6-4b58c7175e38" />
+  <Project Path="03for,while/03for,while.vcxproj" Id="369e91a6-e9da-4f69-ac79-ee0bae65af2c" />
 </Solution>
