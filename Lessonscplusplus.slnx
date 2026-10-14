@@ -6,6 +6,7 @@
   <Project Path="01Intro/01Intro.vcxproj" Id="74b9526a-eaf0-4d89-89b6-4b58c7175e38" />
   <Project Path="03for,while/03for,while.vcxproj" Id="369e91a6-e9da-4f69-ac79-ee0bae65af2c" />
   <Project Path="04Lesonscplusplus/04Lesonscplusplus.vcxproj" Id="be07b6f9-df41-4d1b-a34b-e897194feb71" />
+  <Project Path="Array5DZ/Array5DZ.vcxproj" Id="552f6f3a-cdea-4e23-a9b4-ffef8659f9a9" />
   <Project Path="Array_6/Array_6.vcxproj" Id="da51cf7a-d030-4374-b051-f45d88620a83" />
-  <Project Path="Function07/Function07.vcxproj" Id="ccc5593a-0a83-4649-8ed3-f66c880c705a" />
+  <Project Path="Functions07/Functions07.vcxproj" Id="c8929b01-2267-4bbb-a88a-0771481e24ec" />
 </Solution>

@@ -4,29 +4,29 @@
 using namespace std;
 int main()
 {
-    //int a;
-    //
-    //srand(time(0));
-    //a = rand();
-    //cout << a << endl;
-    //a = rand();
-    //cout << a << endl;
-    //a = rand();
-    //cout << a << endl;
+    /*int a;
+    
+    srand(time(0));
+    a = rand();
+    cout << a << endl;
+    a = rand();
+    cout << a << endl;
+    a = rand();
+    cout << a << endl;
 
-    ///*for (int i = 0; i < 10; i++)
-    //{
-    //    a = rand() % 10;
-    //    cout << a << " ";
-    //}*/
-    //for (int i = 0; i < 30; i++)
-    //{
-    //    a = rand() % 90 + 10;
-    //    cout << a << " ";
-    //}
+    for (int i = 0; i < 10; i++)
+    {
+        a = rand() % 10;
+        cout << a << " ";
+    }
+    for (int i = 0; i < 30; i++)
+    {
+        a = rand() % 90 + 10;
+        cout << a << " ";
+    }*/
     
     
-    /*srand(time(0));
+    srand(time(0));
     int array[4][3];
     int count = 0;
 
@@ -41,8 +41,8 @@ int main()
         }
         cout << endl;
     }
-    cout << count << endl;*/
-    
+    cout << count << endl;
+
     /*srand(time(0));
     int array[3][3];
     int count = 0;

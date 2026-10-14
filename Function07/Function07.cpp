@@ -1,24 +1,20 @@
 ﻿
 #include <iostream>
 using namespace std;
-void Hello();
 
-void Star(int count)
-{
-    for (int i = 0; i < count; i++)
-    {
-        cout << "* ";
-    }
-    cout << endl;
-}
 int main()
 {
-    Hello();
-    Hello();
-    Hello();
-    Star(20);
+    
+	Factorial(5);
 }
-void Hello()
+
+int Factorial(int number)
 {
-    cout << "Hello" << endl;
+	int res = 1;	
+	
+	for (int i = 1; i <= number; i++)
+	{
+		res *= i;
+	}
+	cout << res << endl;
 }

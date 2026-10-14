@@ -178,5 +178,28 @@ int main()
         }
         cout << endl;
     }*/
+    
+    //DZ2
+    
+    /*int size;
+    cin >> size;
+    int row = 2;
+    int cols = 4;
+
+    for (int i = 0; i < row; i++)
+    {
+        for (int j = 0; j < size; j++)
+        {
+            for (int f = 0; f < cols * 2; f++)
+            {
+                char ch = ((i + f) % 2 == 0) ? '*' : '_';
+                for (int h = 0; h < size; h++)
+                {
+                    cout << ch;
+                }
+            }
+            cout << endl;
+        }
+    }*/
 }
 
