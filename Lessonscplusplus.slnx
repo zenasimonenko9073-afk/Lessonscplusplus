@@ -11,4 +11,5 @@
   <Project Path="Functions07/Functions07.vcxproj" Id="c8929b01-2267-4bbb-a88a-0771481e24ec" />
   <Project Path="Pointer11/Pointer11.vcxproj" Id="2b632f6f-775c-4524-b4b5-135a8834b9c7" />
   <Project Path="RetrayFunc8/RetrayFunc8.vcxproj" Id="59205961-f5cb-4241-9855-e20f973206ac" />
+  <Project Path="TemplateFunc9/TemplateFunc9.vcxproj" Id="ef8378db-141f-4268-ba1f-3a8810426f54" />
 </Solution>
