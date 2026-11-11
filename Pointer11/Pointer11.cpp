@@ -56,7 +56,7 @@ int main()
 		res = *pa;
 	}
 	cout << dob << " " << arf << " " << res;*/
-	int sum = 0;
+	/*int sum = 0;
 	const int size = 5;
 	int arr[size];
 	int* parr = &arr[0];
@@ -72,5 +72,9 @@ int main()
 		cout << arr[i] << " ";
 	}
 	cout << endl;
-	cout << "sum == " << sum << endl;
+	cout << "sum == " << sum << endl;*/
+	for (int i = 0; i < 255; i++)
+	{
+		cout << "[" << i << "] - " << (char)i << endl;
+	}
 }
