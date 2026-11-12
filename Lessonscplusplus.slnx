@@ -10,6 +10,8 @@
   <Project Path="Array_6/Array_6.vcxproj" Id="da51cf7a-d030-4374-b051-f45d88620a83" />
   <Project Path="Functions07/Functions07.vcxproj" Id="c8929b01-2267-4bbb-a88a-0771481e24ec" />
   <Project Path="Pointer11/Pointer11.vcxproj" Id="2b632f6f-775c-4524-b4b5-135a8834b9c7" />
+  <Project Path="RecurFunc10.1/RecurFunc10.1.vcxproj" Id="5b4a9ed7-b789-47f9-afed-8bf1bf177c3c" />
   <Project Path="RetrayFunc8/RetrayFunc8.vcxproj" Id="59205961-f5cb-4241-9855-e20f973206ac" />
+  <Project Path="SearchSort10.2/SearchSort10.2.vcxproj" Id="01b1c0d6-d558-4f3a-89d0-45f85d1f3d41" />
   <Project Path="TemplateFunc9/TemplateFunc9.vcxproj" Id="ef8378db-141f-4268-ba1f-3a8810426f54" />
 </Solution>
